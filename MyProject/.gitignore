@@ -1,0 +1,7 @@
+/Build
+/DerivedDataCache
+/Saved
+
+*.suo
+*.sdf
+*.opensdf
